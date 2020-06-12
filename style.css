@@ -5,13 +5,13 @@ body{
 	margin:100;
 	padding:100;
 	font-family:sans-serif;
-	background:url(img4.jpg)no-repeat;
+	background:url(5.jpg)no-repeat;
 	background-size:cover;
 	color:white;
 	text-align:center;
 }
 header,.main,footer{
-	background-origin:
+	background-origin:;
 	width:90%;
 	max-width:1000px;
 	margin:20px auto;
