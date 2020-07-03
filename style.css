@@ -16,6 +16,11 @@ header,.main,footer{
 	max-width:1000px;
 	margin:20px auto;
 }
+
+header,button{
+	color:red;
+}
+
 header nav{
 	background-origin:; 
 	overflow:hidden;
